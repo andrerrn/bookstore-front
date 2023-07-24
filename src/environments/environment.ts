@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  baseUrl: 'https://livraria-do-dede.herokuapp.com/'
+  baseUrl: 'https://livraria-do-dede-9e05b9b1c6cd.herokuapp.com/'
 };
 
 /*
